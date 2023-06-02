@@ -85,3 +85,6 @@ sebulbas_pod.flame_jet(other_podracer)
 
 # Access the updated condition of the other Podracer
 print(other_podracer.condition)  # Output: trashed
+
+
+#test 
